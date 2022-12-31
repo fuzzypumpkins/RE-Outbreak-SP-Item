@@ -19,6 +19,8 @@ body {
   }
 }
 
+/* Styles the table to scale down for screens smaller than 600px */
+
 @media (max-width: 600px) {
   table {
     width: 50%;
